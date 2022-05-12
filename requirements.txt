@@ -1,0 +1,9 @@
+pysoundfile
+enum34
+playsound
+pyaudio
+PyQt5
+kivy
+pyserial
+
+**working out of the box for windows
